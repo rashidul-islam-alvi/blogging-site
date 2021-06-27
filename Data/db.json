@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Blogging is like growing a garden. It sounds cool in theory, but in practice takes time, effort, and constant care. That said, blogging can also be an excellent way to express yourself and share your thoughts with a broader audience.We’ve offered blogging advice before and felt the topic was worth a revisit. That’s why we asked you, our community of talented writers, to share your best blogging tips with us. Thanks for all the excellent recommendations you shared with us over Facebook, Twitter, and Instagram! ",
+      "author": "Samia",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "We are so grateful to all who came out to support us at our Grand Opening Party & Ribbon Cutting Ceremony on Saturday, June 29th!",
+      "author": "Alvi",
+      "id": 2
+    },
+    {
+      "title": "Post Request",
+      "body": "I just added new blog using post request to json and kinda happy right now becos its going smooth so far",
+      "author": "Alvi",
+      "id": 3
+    }
+  ]
+}
