@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## install JSON Server first . Type npm install -g json-server, then json-server --watch Data/db.json --port 9000 (otherwise it wont load)
+## install JSON Server first . Type npm install -g json-server, then json-server --watch Data/db.json --port 8000 (otherwise it wont load)
 
 ## Available Scripts
 
